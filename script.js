@@ -67,3 +67,10 @@ const isCheked = true,
       isCheartu = false;
 
 console.log(isCheked && !isCheartu);
+
+function tyrr (a,b)  {
+  let i = 0; 
+  i++; i <= 3; i--;
+
+  return;
+};
