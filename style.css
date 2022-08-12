@@ -1,0 +1,23 @@
+.header{
+  margin: 0 auto;
+  background: #3423d1;
+}
+
+.header__list{
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__item{
+  list-style-type: none;
+}
+
+.header__link{
+  font-size: 20px;
+}
+
+.cart_product{
+  background-color: #63baba;
+  padding: 10px;
+  margin: 0 auto;
+}
