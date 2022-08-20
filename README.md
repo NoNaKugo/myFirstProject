@@ -1,3 +1,3 @@
-# myFirstProject
+# myFirstProjectТ
 
-Это тестовы GitHUb
+В файле tasks.js задачи которые я решаю с курса.
